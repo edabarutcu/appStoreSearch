@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AppStoreSearch
 //
-//  Created by detaysoft on 29.10.2022.
+//  Created by eda on 29.10.2022.
 //
 
 import UIKit
